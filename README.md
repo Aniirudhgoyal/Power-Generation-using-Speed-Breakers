@@ -21,14 +21,22 @@ The project involved the assembly of the speed-breaker, including wooden columns
 
 Methodology:
 -Design: Conceptualized and modeled the design using FreeCAD, and determined suitable dimensions for each component through trial and error.
+
 -Material Selection: Used wood for the base and support, and metal for the speed-breaker head and gears, ensuring durability and ease of assembly.
+
 -Assembly: Assembled the structure using L-clamps, nuts, bolts, and springs for motion and energy generation.
+
 -Power Generation: Connected a DC dynamo to generate electricity and power LEDs when the head is depressed by passing vehicles.
+
 
 
 Applications:
 
 -Urban Integration: Implement in urban areas to power streetlights and traffic signals.
+
 -Rural Electrification: Use in rural areas to generate electricity for local infrastructure.
+
 -Electric Vehicle Charging: Adapt the system to serve as charging stations for electric vehicles.
+
 -Disaster Preparedness: Install in disaster-prone areas to provide critical power during emergencies.
+
